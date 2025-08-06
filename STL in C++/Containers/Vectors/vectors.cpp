@@ -30,7 +30,34 @@ int main()
     // b.size() --> gives 2 (how many elem are present)
     // b.capacity() --> gives 4 (how many elem it can hold)
 
-    // Just adding a comment :)
+    
+
+    // Front, back, at and empty
+    b.front(); // returns elem present in the 1st index
+    b.back(); // returns elem present in the last index
+    b.empty(); // if vector is empty it returns 1 else 0
+    b.at(2); // returns the elem present at index 2
+
+
+
+    // Iterator in a vector
+    // this is a vector v = [4, 6, 8, 10] _
+    // v.begin() returns 4
+    // v.end() points the cursor at the end (_) after 10
+
+
+    // Reverse a vector 
+    // v.rbegin() 
+    // v.rend()
+    // The whole vector gets reversed 1st elem becomes last and last becomes first
+
+
+    // for each loop which iterates the whole vector b and prints every elem present in the vector
+    for (auto it: b) {
+        cout << it << " ";
+    }
+
+    // v.clear(); use to clear the whole vector
 
     return 0;
 }
