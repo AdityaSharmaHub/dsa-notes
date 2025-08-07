@@ -4,7 +4,13 @@ Welcome to DSA Notes by Aditya, here you will find all my DSA notes at one place
 
 You can find the sheet here - [`Striver A2Z DSA Sheet`](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
-## Follow this flow
+And here are my coding profiles:
+- LeetCode - [adisharma4857](https://leetcode.com/u/adisharma4857)
+- GeeksforGeeks - [sharmaaditya](https://www.geeksforgeeks.org/user/sharmaaditya)
+
+## Follow this flow while learning
 
 1. STL in C++
 2. Basic Maths Problems
+
+### You can find out my #100DaysOfCodes journey here - [#100DaysOfCode](https://github.com/AdityaSharmaHub/100DaysOfCode)
