@@ -1,0 +1,17 @@
+N = 7789
+
+extraction of digits
+
+N = 7789 % 10 = 9 --> gives the last digit
+N = 7789 / 10 = 778 --> if u want the N except the last digit
+
+so,
+N = 7789 % 10 = 9                                                       
+/ 10 
+N = 778 % 10 = 8
+/10 
+N = 77 % 10 = 7
+/10 
+N = 7 % 10 = 7
+/10 
+N = 0 % 10 = 0 --> as soon as we get zero we can say that we have extracted all the digits present.
