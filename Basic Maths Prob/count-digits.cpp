@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Prob Link - https://www.geeksforgeeks.org/problems/count-digits-1606889545/1
+// Prob Link 1 - https://www.geeksforgeeks.org/problems/count-digits-1606889545/1
+// Prob Link 2 - https://www.naukri.com/code360/problems/number-of-digits_9173
 
 // Approach 1 - Convert the int to string and return the size
 
