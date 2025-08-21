@@ -4,6 +4,8 @@ using namespace std;
 // What is a prime no 
 // A num that has exactly 2 factors which is 1 and itself
 
+// Prob Link - https://www.naukri.com/code360/problems/check-prime_624674
+
 int main()
 {
     int n, cnt = 0;
