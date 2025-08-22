@@ -1,0 +1,23 @@
+What is a Recursion ?
+When a function calls itself until a specified condition is met
+
+Example - Infinite Recursion
+
+void printAllNos(int n) {
+    cout << n << endl;
+    printAllNos(n+1);
+}
+
+int main()
+{
+    int n;
+    cout << "Enter a number: ";
+    cin >> n;
+
+    printAllNos(n);
+    return 0;
+}
+
+RESULT - Goes into Infinite loop and gives segmentation fault/stack overflow
+
+SOLUTION - You will have to mention the base condition (when the process should be stop)
