@@ -12,12 +12,12 @@ void printOneToN(int i, int &n) {
     printOneToN(i+1, n); // recursive call
 }
 
-// Another approach
+// Another approach - Backtracking
 void printNos(unsigned int n)
 {
     if (n > 0) {
-        printNos(n - 1);
-        cout << n << " ";
+        printNos(n - 1); // this func is called before printing
+        cout << n << " "; // printing after the function
     }
     return;
 }
