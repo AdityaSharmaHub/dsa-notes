@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// Parameterized
+// Parameterized Recursion
 void sumOfFirstNNums(int n, int sum) {
     if (n < 1) {
         cout << "Sum: " << sum;
@@ -11,7 +11,7 @@ void sumOfFirstNNums(int n, int sum) {
     sumOfFirstNNums(n - 1, sum + n);
 }
 
-// Functional
+// Functional Recursion
 int sumOfFirstNNos(int n) {
     if (n == 0) return 0;
 
