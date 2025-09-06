@@ -1,0 +1,7 @@
+Related problems
+
+1. Count Elements with max freq => https://leetcode.com/problems/count-elements-with-maximum-frequency/
+2. Frequency of Elements => https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/0
+3. Frequencies in a Limited Array => https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/0
+4. Number of occurrence => https://www.geeksforgeeks.org/problems/number-of-occurrence2259/0
+5. Count Frequency in a range - https://www.naukri.com/code360/problems/count-frequency-in-a-range_8365446
