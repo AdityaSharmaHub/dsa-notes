@@ -9,13 +9,14 @@ And here are my coding profiles:
 - GeeksforGeeks - [sharmaaditya](https://www.geeksforgeeks.org/user/sharmaaditya)
 - Coding Ninjas - [adityasharmacn](https://www.naukri.com/code360/profile/adityasharmacn)
 
-## Follow this flow while learning
+## Follow this flow while learning DSA from scratch
 
 1. Programming Basics (C++ / Java)
 2. Basic Programming Problems
 3. Basic Maths Problems
-4. STL in C++
+4. STL in C++ / Java Collections
 5. Basic Recursion (Understand how it works)
-6. Basic Hashing (Get familiar with the concept)
+6. Basic Hashing (Get familiar with the concept - unordered and ordered maps)
+7. Sorting (Selection, Bubble, Insertion, Merge, Quick)
 
-### You can find out my #100DaysOfCode journey here - [#100DaysOfCode](https://github.com/AdityaSharmaHub/100DaysOfCode)
+### You can also find out my #100DaysOfCode journey here - [#100DaysOfCode](https://github.com/AdityaSharmaHub/100DaysOfCode)
