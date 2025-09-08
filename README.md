@@ -11,7 +11,11 @@ And here are my coding profiles:
 
 ## Follow this flow while learning
 
-1. STL in C++
-2. Basic Maths Problems
+1. Programming Basics (C++ / Java)
+2. Basic Programming Problems
+3. Basic Maths Problems
+4. STL in C++
+5. Basic Recursion (Understand how it works)
+6. Basic Hashing (Get familiar with the concept)
 
 ### You can find out my #100DaysOfCode journey here - [#100DaysOfCode](https://github.com/AdityaSharmaHub/100DaysOfCode)
