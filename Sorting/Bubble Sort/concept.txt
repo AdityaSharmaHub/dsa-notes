@@ -1,0 +1,20 @@
+Bubble sort is opposite of selection sort.
+Here we take the max elem and push it to the last by adjacent swapping
+
+Let take it with an example...
+
+arr[5] = {6, 28, 1, 3, 12}
+
+Step 1 - Compare the 1st 2 elems, swap if they are not sorted. Do did till it reach the 2nd last elem (n-1)
+6 28 1 3 12 (the first 2 are already sorted)
+6 1 28 3 12 (28 and 1 got swapped)
+6 1 3 28 12 (28 and 3 got swapped)
+6 1 3 12 28 (12 and 28 got swapped)
+
+Step 2 - Repeat the same process till it reach n - 2
+1 6 3 12 28 (1 and 6 got swapped)
+1 3 6 12 28 (6 and 3 got swapped)
+1 3 6 12 28 (6 and 12 are already sorted)
+1 3 6 12 28 (12 and 28 are already sorted)
+
+And the steps goes on... till there is only 1 elem left
