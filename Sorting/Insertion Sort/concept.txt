@@ -1,0 +1,5 @@
+Place the element at the correct order/place
+like, 2 5 1 7 3
+here, 1 needs to be at the first place. Swap it with 5 and then again with 2.
+
+The swapping process continues till it reaches its correct position.
