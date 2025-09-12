@@ -1,0 +1,4 @@
+Divide and Merge
+
+First of all divide the array till it reaches to 1 element and then backtrack and merge.
+See the concept image for more clarity :)
