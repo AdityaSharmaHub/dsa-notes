@@ -1,0 +1,6 @@
+Array
+
+A data structure that contains any kind of data type but all of the elements should have the same data type.
+Like if a array is created to store integers than all the elements in it must be an integer and nothing else.
+
+max length of array - 10 raise to 6 (inside int main) and 10 raise to 7 (if declared globally)
