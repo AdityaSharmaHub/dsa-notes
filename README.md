@@ -9,7 +9,7 @@ And here are my coding profiles:
 - GeeksforGeeks - [sharmaaditya](https://www.geeksforgeeks.org/user/sharmaaditya)
 - Coding Ninjas - [adityasharmacn](https://www.naukri.com/code360/profile/adityasharmacn)
 
-## Follow this flow while learning DSA from scratch
+## Follow this sequence while learning DSA
 
 1. Programming Basics (C++ / Java)
 2. Basic Programming Problems
@@ -18,5 +18,6 @@ And here are my coding profiles:
 5. Basic Recursion (Understand how it works)
 6. Basic Hashing (Get familiar with the concept - unordered and ordered maps)
 7. Sorting (Selection, Bubble, Insertion, Merge, Quick)
+8. Arrays
 
-### You can also find out my #100DaysOfCode journey here - [#100DaysOfCode](https://github.com/AdityaSharmaHub/100DaysOfCode)
+### I've also been on #100DaysOfCode journey - [#100DaysOfCode](https://github.com/AdityaSharmaHub/100DaysOfCode)
