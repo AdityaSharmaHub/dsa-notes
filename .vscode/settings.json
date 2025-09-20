@@ -10,5 +10,7 @@
         "stacktrace": "cpp",
         "regex": "cpp",
         "valarray": "cpp"
-    }
+    },
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false
 }
