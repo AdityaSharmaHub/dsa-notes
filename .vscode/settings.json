@@ -9,7 +9,8 @@
         "span": "cpp",
         "stacktrace": "cpp",
         "regex": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "random": "cpp"
     },
     "editor.tabSize": 4,
     "editor.detectIndentation": false
