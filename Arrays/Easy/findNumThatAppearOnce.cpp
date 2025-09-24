@@ -32,6 +32,15 @@ int findNumThatAppearsOnce(vector<int> &arr) {
     // map<long long, int> mpp; --> taking long long because the nums might be 10^8 long
     // iterate in the loop and store in the map
     // find the key which has value 1 (which means it has appeared only once)
+
+    // example -
+    unordered_map<int, int> freq;
+    for (int num: arr) freq[num]++;
+
+    for (auto it : freq) {
+        if (it.second == 1) return it.first;
+    }
+    return -1;
     
     // Time Complexity - O(N log M) --> here M is the map (M = N/2 + 1)       +       O(N/2 + 1) --> for finding the key in the map
     // Space Complexity - O(N/2 + 1) -> Space taken by map bcoz every element appears twice and only one element appears onece.
