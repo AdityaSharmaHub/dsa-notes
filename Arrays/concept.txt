@@ -9,3 +9,9 @@ max length of array - 10 raise to 6 (inside int main) and 10 raise to 7 (if decl
 Rotate an array logic -
 
 If you want to rotate an array by D elements than store the 3 elements in a separate array and then shift the elements by one position and atlast append the created array into the main array.
+
+
+Kadane's Algo
+It simply says I keep on adding the elements while iterating and when the sum becomes -ve I'd not take that element, skip that element and move on to the next element. 
+
+It is used to find the maximum subarray 
